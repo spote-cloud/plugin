@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spote": {
+      "type": "http",
+      "url": "https://spote.cloud/mcp"
+    }
+  }
+}

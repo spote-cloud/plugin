@@ -1,0 +1,17 @@
+{
+  "name": "spote",
+  "version": "1.0.0",
+  "description": "Connect to Spote, a persistent Markdown notebook for durable human and agent knowledge, plus a skill for using it well.",
+  "author": "Spote",
+  "homepage": "https://spote.cloud",
+  "repository": "https://github.com/spote-cloud/plugin",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Spote",
+        "category": "Productivity"
+      }
+    }
+  }
+}

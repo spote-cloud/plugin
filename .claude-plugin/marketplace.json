@@ -1,0 +1,23 @@
+{
+  "name": "spote-marketplace",
+  "owner": {
+    "name": "Spote",
+    "url": "https://spote.cloud"
+  },
+  "description": "Official Spote plugin marketplace.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "spote",
+      "source": "./",
+      "displayName": "Spote",
+      "description": "Connect Claude to Spote, a persistent Markdown notebook for durable human and agent knowledge, plus a skill for using it well.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Spote",
+        "url": "https://spote.cloud"
+      },
+      "license": "MIT"
+    }
+  ]
+}
